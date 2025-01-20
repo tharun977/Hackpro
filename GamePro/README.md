@@ -1,97 +1,97 @@
-# SafePlay: Enhancing Trust, Transparency, and Responsibility in Online Gaming
+# PlayGuard: Redefining Trust, Safety, and Transparency in Online Gaming
 
 ### 🌟 **Project Overview**
-SafePlay is a comprehensive solution aimed at addressing the critical challenges faced by the rapidly growing Indian online gaming industry. By leveraging cutting-edge technologies such as AI, blockchain, and real-time analytics, SafePlay ensures safer, transparent, and responsible gaming experiences while providing tools to differentiate skill-based gaming from gambling.
+PlayGuard is a cutting-edge solution designed to address the key challenges in the Indian online gaming industry. By integrating advanced technologies like AI, blockchain, and real-time behavioral analytics, PlayGuard ensures a secure, transparent, and responsible gaming environment while offering innovative tools to distinguish skill-based gaming from gambling.
 
 ---
 
-## 🚀 **Problem Statement**
-The rapid growth of the Indian online gaming industry has introduced several challenges:
-1. **Consumer Issues**: Online harassment, data breaches, fraud, addiction, and lack of transparency in gameplay mechanics.
-2. **Gaming vs. Gambling**: Difficulty in distinguishing between skill-based gaming and gambling, leading to regulatory confusion and consumer misconceptions.
+## 🚀 **Challenges Addressed**
+The booming Indian online gaming market faces significant hurdles:
+1. **Player Concerns**: Issues like online toxicity, privacy breaches, fraud, and gaming addiction.
+2. **Blurred Lines Between Gaming and Gambling**: Ambiguities in distinguishing skill-based games from chance-based gambling, leading to regulatory and consumer confusion.
 
 ---
 
-## 🎯 **Solution Features**
-1. **AI-Powered Harassment Detection**: Real-time identification and prevention of toxic behavior, hate speech, and harassment during gameplay.
-2. **Blockchain-Based Transparency**:
-   - Immutable logging of game rules, outcomes, and in-game transactions.
-   - Smart contracts for fair matchmaking and game mechanics.
-3. **Responsible Gaming Tools**:
-   - Behavioral monitoring to detect signs of addiction.
-   - Alerts and recommendations for healthier gaming habits.
-4. **Skill vs. Chance Differentiation**:
-   - AI algorithms to analyze gameplay metrics and classify games as skill-based or chance-based.
-   - Regulatory dashboards for compliance monitoring.
-5. **Secure Data Management**:
-   - AES-256 encryption for user data.
-   - OAuth 2.0 for secure authentication.
-6. **User Awareness Tools**:
-   - Educational campaigns and notifications to inform players about gaming mechanics and responsible practices.
+## 🎯 **Key Features**
+1. **Real-Time Harassment Detection**:
+   - AI-powered tools to identify and mitigate abusive behavior, hate speech, and toxicity during gameplay.
+2. **Blockchain-Powered Transparency**:
+   - Immutable logging of gameplay rules, outcomes, and in-game transactions.
+   - Smart contracts to ensure fairness in matchmaking and gameplay mechanics.
+3. **Tools for Responsible Gaming**:
+   - Advanced monitoring of player behavior to identify early signs of addiction.
+   - Alerts and suggestions to encourage healthier gaming habits.
+4. **Skill vs. Chance Analysis**:
+   - AI models to analyze game metrics and classify games as skill-based or chance-based.
+   - Interactive dashboards for regulators to ensure compliance and transparency.
+5. **Data Security and Privacy**:
+   - End-to-end encryption using AES-256 for player data.
+   - OAuth 2.0-based authentication for secure access.
+6. **Player Education and Awareness**:
+   - Notifications and educational resources to guide players on ethical gaming and mechanics.
 
 ---
 
 ## 🛠 **Technology Stack**
-- **Frontend**: React.js (UI/UX implementation).
-- **Backend**: Node.js (API development and server-side logic).
-- **Database**: MongoDB (NoSQL database for scalability and flexibility).
-- **Blockchain**: Ethereum (transparent transactions and immutable records).
+- **Frontend**: React.js for an intuitive and responsive user interface.
+- **Backend**: Django/Node.js for scalable server-side logic and API management.
+- **Database**: PostgreSQL for structured, reliable data storage.
+- **Blockchain**: Ethereum for transaction transparency and tamper-proof logging.
 - **AI/ML**:
-  - TensorFlow.js for real-time toxicity detection and analysis.
-  - Pre-trained models for sentiment analysis.
-- **Authentication**: Firebase or OAuth 2.0.
-- **Real-Time Analytics**: Kafka or Socket.io.
+   - TensorFlow for advanced toxicity detection.
+   - Pre-trained models for behavioral and sentiment analysis.
+- **Authentication**: Firebase and OAuth 2.0 for secure user authentication.
+- **Real-Time Features**: WebSocket or Kafka for instant updates and notifications.
 
 ---
 
 ## 📂 **Project Structure**
 ```
-SafePlay/
-├── frontend/        # React.js code for the user interface
-├── backend/         # Node.js server code and API
-├── models/          # AI/ML models and scripts
+PlayGuard/
+├── frontend/        # React.js code for user interface
+├── backend/         # Server-side logic and API
+├── models/          # AI/ML models and utilities
 ├── blockchain/      # Smart contracts and blockchain integration
 ├── database/        # Database schemas and scripts
-├── docs/            # Documentation and reports
-└── README.md        # Project overview
+├── docs/            # Documentation and resources
+└── README.md        # Overview of the project
 ```
 
 ---
 
 ## 📌 **Minimum Viable Product (MVP)**
-1. **Core Features**:
-   - AI-powered harassment detection.
-   - Blockchain-based transaction transparency.
-   - Basic behavioral monitoring for addiction alerts.
+1. **Core Functionalities**:
+   - AI-driven detection of harassment.
+   - Blockchain-logged game outcomes and transactions.
+   - Initial tools for behavioral monitoring and addiction alerts.
 2. **Prototype Tools**:
-   - Frontend UI for user interactions.
-   - Backend API for real-time analysis and data management.
+   - Basic frontend for user interaction.
+   - Backend API for real-time analysis and data handling.
 
 ---
 
-## 🌟 **Unique Selling Proposition (USP)**
-- **Innovative Technology**: First-of-its-kind integration of AI and blockchain to address trust and transparency challenges.
-- **Scalability**: Built on robust frameworks to handle millions of users.
-- **Customization**: Tailored tools for players, regulators, and developers.
-- **Ethical Gaming Promotion**: Ensuring user well-being without sacrificing entertainment.
+## 🌟 **Unique Value Proposition**
+- **Innovative Approach**: First-of-its-kind integration of AI and blockchain for ethical gaming.
+- **Robust Scalability**: Designed to accommodate millions of users seamlessly.
+- **Multi-Stakeholder Benefits**: Tailored tools for players, developers, and regulators.
+- **Promoting Ethical Play**: Balances user well-being with engaging gaming experiences.
 
 ---
 
-## 📈 **Future Roadmap**
-1. **Short Term**:
-   - Expand AI models to analyze voice-based harassment.
-   - Partner with Indian gaming platforms for real-world testing.
-2. **Long Term**:
-   - Develop dashboards for regulators to monitor industry compliance.
-   - Integrate with AR/VR platforms for immersive gaming safety solutions.
+## 📈 **Future Plans**
+1. **Short-Term Goals**:
+   - Enhance AI to detect voice-based toxicity in multiplayer games.
+   - Collaborate with Indian gaming companies for pilot testing.
+2. **Long-Term Vision**:
+   - Develop comprehensive dashboards for regulators to monitor industry practices.
+   - Integrate AR/VR technologies for immersive and secure gaming environments.
 
 ---
 
-
-## 📦 **How to Run**
-1. Clone this repository:
+## 📦 **Getting Started**
+1. Clone the repository:
    ```bash
-   git clone https://github.com/username/SafePlay.git
+   git clone https://github.com/tharun977/PlayGuard.git
    ```
 2. Install dependencies for **frontend**:
    ```bash
@@ -102,17 +102,15 @@ SafePlay/
 3. Install dependencies for **backend**:
    ```bash
    cd backend
-   npm install
-   npm start
+   pip install -r requirements.txt
+   python manage.py runserver
    ```
 4. Access the application:
-   - Frontend runs on: `http://localhost:3000`
-   - Backend runs on: `http://localhost:5000`
+   - Frontend: `http://localhost:3000`
+   - Backend: `http://localhost:8000`
 
 ---
 
 ## 📬 **Contact**
-If you have any questions or feedback, feel free to reach out:
-- **Rohit Raj**: rohitraj16092004@gmail.com
-
----
+For questions or feedback, reach out to:
+- **Tharun Raman**: tharunraman10@gmail.com
